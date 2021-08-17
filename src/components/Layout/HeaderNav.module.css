@@ -1,0 +1,60 @@
+.nav{
+  padding-left: 0px;
+}
+
+.shop {
+  cursor: pointer;
+  position: absolute;
+  width: 32px;
+  height: 16px;
+  left: 345px;
+  top: 27px;
+  font-style: normal;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: capitalize;
+  list-style: none;
+}
+.aboutus {
+  cursor: pointer;
+  position: absolute;
+  width: 58px;
+  height: 16px;
+  left: 419px;
+  top: 27px;
+  font-style: normal;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: capitalize;
+  list-style: none;
+}
+.ourstore {
+  cursor: pointer;
+  position: absolute;
+  width: 66px;
+  height: 16px;
+  left: 519px;
+  top: 27px;
+  font-style: normal;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: capitalize;
+  list-style: none;
+}
+.contactus {
+  cursor: pointer;
+  position: absolute;
+  width: 69px;
+  height: 16px;
+  left: 627px;
+  top: 27px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: capitalize;
+  list-style: none;
+}
