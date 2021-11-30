@@ -1,0 +1,122 @@
+.summary {
+  margin-top: 140px;
+  margin-left: 20px;
+  left: 25px;
+}
+
+.first {
+  font-size: 13px;
+  color: rgb(53, 53, 53);
+  font-family: "Roboto", sans-serif;
+}
+
+.second {
+  font-size: 20px;
+  color: rgb(17, 17, 17);
+  font-family: "Roboto", sans-serif;
+}
+
+.filter {
+  display: flex;
+}
+
+.filter-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.list {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.products {
+  cursor: pointer;
+  position: absolute;
+  text-align: center;
+  width: 85px;
+  height: 30px;
+  left: 110px;
+  top: 225px;
+  border: 1.5px solid black;
+  border-radius: 52px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+.tshirt {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 30px;
+  left: 210px;
+  top: 225px;
+  border: 0.5px solid rgb(153, 153, 153);
+  color: rgb(153, 153, 153);
+  border-radius: 52px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+.Denim {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 30px;
+  left: 285px;
+  top: 225px;
+  border: 0.5px solid rgb(153, 153, 153);
+  color: rgb(153, 153, 153);
+  border-radius: 52px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+.SweatShirts {
+  position: absolute;
+  text-align: center;
+  width: 85px;
+  height: 30px;
+  left: 360px;
+  top: 225px;
+  border: 0.5px solid rgb(153, 153, 153);
+  color: rgb(153, 153, 153);
+  border-radius: 52px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+.pts {
+  position: absolute;
+  text-align: center;
+  width: 95px;
+  height: 30px;
+  left: 460px;
+  top: 225px;
+  border: 0.5px solid rgb(153, 153, 153);
+  color: rgb(153, 153, 153);
+  border-radius: 52px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+.Shirt {
+  position: absolute;
+  text-align: center;
+  width: 45px;
+  height: 30px;
+  left: 570px;
+  top: 225px;
+  border: 0.5px solid rgb(153, 153, 153);
+  color: rgb(153, 153, 153);
+  border-radius: 52px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
