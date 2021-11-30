@@ -4,7 +4,7 @@ import Cloths from "./components/Cloths/Cloths";
 import Header from "./components/Layout/Header";
 import Cart from "./components/Cart/Cart";
 
-
+//this is root component
 function App() {
   const showCart = useSelector((state) => state.ui.cartIsVisible);
 
