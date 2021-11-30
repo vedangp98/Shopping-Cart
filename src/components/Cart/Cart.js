@@ -10,7 +10,7 @@ const Cart = (props) => {
           name: "GAP",
           description: "Men's Pullover Sweet shirt",
           price: "$599",
-          size: ["S,", "M,", "L,", "XL,", "XXL"],
+          size: ["S,", "M,", "L,", "XXL"],
         },
       ].map((item) => (
         <li>{item.name}</li>
